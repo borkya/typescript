@@ -65,7 +65,7 @@ console.log(myMultiply(5, 2));
 
 // objects
 let userData: { name: string, age: number } = {
-    name: "Max",
+    name: "Maximillan",
     age: 27
 };
 // userData = {

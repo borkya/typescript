@@ -54,7 +54,7 @@ myMultiply = multiply;
 console.log(myMultiply(5, 2));
 // objects
 var userData = {
-    name: "Max",
+    name: "Maximillan",
     age: 27
 };
 // userData = {
